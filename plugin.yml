@@ -1,0 +1,6 @@
+main: com.rident.farmprotect.FarmProtect
+
+name: FarmProtect
+version: 1.0
+description: Prevents toppling tilled dirt
+author: Rident
